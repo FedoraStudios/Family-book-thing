@@ -1,0 +1,13 @@
+body
+{
+    text-align: center;
+    background-color: aqua;
+}
+
+#CopyRightFooter
+{
+    position: relative;
+    margin-top: 500px;
+    background-color: orange;
+    color: black;
+}
